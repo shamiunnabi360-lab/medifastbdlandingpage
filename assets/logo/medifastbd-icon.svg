@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <!-- Medical Cross -->
+  <rect x="18" y="4" width="12" height="30" rx="2" fill="#0D9F4F"/>
+  <rect x="8" y="12" width="32" height="12" rx="2" fill="#0D9F4F"/>
+  <!-- Pill Capsule -->
+  <rect x="30" y="26" width="10" height="18" rx="5" fill="#D73327" transform="rotate(-20 35 35)"/>
+  <rect x="30" y="26" width="10" height="9" rx="5" fill="#FEFDFC" transform="rotate(-20 35 30.5)"/>
+  <!-- Location Pin -->
+  <path d="M8 38 C8 32 12 28 16 28 C18 28 19 29 20 30 L16 36 L12 30 C10 32 8 34 8 38Z" fill="#12435F"/>
+  <circle cx="14" cy="33" r="2" fill="#FEFDFC"/>
+  <!-- Speed Lines -->
+  <line x1="2" y1="16" x2="6" y2="16" stroke="#0D9F4F" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="1" y1="20" x2="5" y2="20" stroke="#0D9F4F" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="2" y1="24" x2="6" y2="24" stroke="#0D9F4F" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
