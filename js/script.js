@@ -5,7 +5,7 @@
 /* ---------- CONFIGURATION ---------- */
 const CONFIG = {
     webAppUrl: "WEB_APP_URL",
-    androidUrl: "ANDROID_DOWNLOAD_URL",
+    androidUrl: "assets/downloads/medifastbd.apk",
     windowsUrl: "WINDOWS_DOWNLOAD_URL",
     githubUrl: "GITHUB_REPOSITORY_URL",
     demoVideoUrl: "assets/videos/medifastbd-demo.mp4",
